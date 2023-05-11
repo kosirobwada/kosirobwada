@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![github-user-contribution](https://github.com/kosirobwada/kosirobwada/assets/97875031/59b0cb70-2fdd-4191-8636-08ae0c7eb8dc)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kosirobwada&theme=default)
 
-![languages](https://github.com/kosirobwada/kosirobwada/assets/97875031/cbda3eb7-6498-4b74-9ca9-af602ef86831)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kosirobwada&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kosirobwada&theme=default)
 
-![stats](https://github.com/kosirobwada/kosirobwada/assets/97875031/84935097-2cc6-46eb-83ba-2e39809ad718)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kosirobwada&theme=default)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kosirobwada&theme=default&utcOffset=8)
 
+![github-user-contribution](https://github.com/kosirobwada/kosirobwada/assets/97875031/99bfc595-2f86-4750-a384-34c0403c3f34)
