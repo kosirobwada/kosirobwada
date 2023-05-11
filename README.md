@@ -13,3 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![github-user-contribution](https://github.com/kosirobwada/kosirobwada/assets/97875031/59b0cb70-2fdd-4191-8636-08ae0c7eb8dc)
+
+![languages](https://github.com/kosirobwada/kosirobwada/assets/97875031/cbda3eb7-6498-4b74-9ca9-af602ef86831)
+
+![stats](https://github.com/kosirobwada/kosirobwada/assets/97875031/84935097-2cc6-46eb-83ba-2e39809ad718)
+
