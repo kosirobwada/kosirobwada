@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kosirobwada&theme=default)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kosirobwada&theme=default&utcOffset=8)
 
+![](https://github-readme-stats.vercel.app/api/top-langs?username=kosirobwada&show_icons=true&locale=en&layout=compact)
